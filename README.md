@@ -1,4 +1,4 @@
-- 👋 Hi, I’m (Shreyas G S)@PrinceSBI
+- 👋 Hi, I’m @PrinceSBI (Shreyas G S)
 - 👀 I’m interested in learning something new
 - 🌱 I’m currently learning Data structures and Algorithm
 - 💞️ I’m looking to collaborate on making new projects
